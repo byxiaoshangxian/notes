@@ -13,7 +13,7 @@ opkg install zip unzip
 
 防火墙推荐设置：
 
-![image.png](/upload/image.png)
+![image.png](./images/image.png)
 
 扩容教程：
 
