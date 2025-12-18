@@ -31,7 +31,8 @@
 
 ---
 
-[西部数据](https://wd-gold.com/aff.php?aff=1206)【点击购买】,节点广港 IEPL / 沪日 IEPL / 京德 IEPL，流媒体稳定解锁 NF 和其他主流媒体资源，速度不错；华北和东北自动识别去京港京日，江浙沪自动识别去沪港，华南自动识别去广德。  
+[西部数据](https://wd-gold.com/aff.php?aff=1206)【点击购买】,节点广港 IEPL / 沪日 IEPL / 京德 IEPL，流媒体稳定解锁 NF 和其他主流媒体资源，速度不错；  
+华北和东北自动识别去京港京日，江浙沪自动识别去沪港，华南自动识别去广德。  
 标准专线，1块钱10G，并且支持最少20块钱200G，性价比非常不错。
 ![](https://pic.imgdb.cn/item/66d59728d9c307b7e9f75049.png)
 ![alt](https://pic.imgdb.cn/item/6684c1c8d9c307b7e96e3e8c.png)
