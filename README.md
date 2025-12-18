@@ -1,2 +1,1 @@
-# notes
-halo data backup
+* [Sub-Store订阅管理](./substore.md)
