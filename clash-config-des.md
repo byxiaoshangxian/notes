@@ -122,3 +122,12 @@ rule-providers:
 > [https://www.10101.io/2020/02/12/use-clash-proxy-provider-with-subconverter/comment-page-1](https://www.10101.io/2020/02/12/use-clash-proxy-provider-with-subconverter/comment-page-1)
 >
 > [https://wiki.metacubex.one/startup/service/](https://wiki.metacubex.one/startup/service/)
+
+# 群友的引用
+> https://github.com/Lbiebest/clash-config/blob/main/README.md
+>
+> https://github.com/Lbiebest/clash-config/blob/main/scripts/custom-rule.js
+>
+> https://github.com/ClashConnectRules/Self-Configuration/blob/main/README_CN.md
+>
+> https://github.com/ClashConnectRules/Self-Configuration/blob/main/Clash.yaml
