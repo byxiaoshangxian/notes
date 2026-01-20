@@ -4,7 +4,7 @@
 
 其他额外的一些东西：`ttyd`、`screen`、`openssh-sftp-server`、`luci-app-homeproxy`、`procd-ujail`（MihomoTProxy额外插件）
 
-**如果纯内核使用mihomo，一定要注意，安装openclash套件需要从ssh里面安装，web控制台会报错**
+**如果纯内核使用mihomo，一定要注意，安装openclash套件需要从ssh里面安装，web控制台会报错**  
 **一定要移除自带SSH，设置root密码后再安装openssh，否则密码不通过，也没办法SFTP**
 ```
 opkg update
