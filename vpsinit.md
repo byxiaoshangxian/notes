@@ -27,7 +27,7 @@ systemctl disable firewalld.service
 宝塔：
 
 ```
-if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_panel.sh;else wget -O install_panel.sh https://download.bt.cn/install/install_panel.sh;fi;bash install_panel.sh ed8484bec
+if [ -f /usr/bin/curl ];then curl -sSO https://io.bt.sb/install/install_latest.sh;else wget -O install_latest.sh https://io.bt.sb/install/install_latest.sh;fi;bash install_latest.sh && rm -rf install_latest.sh
 ```
 
 1panel：
@@ -39,6 +39,10 @@ bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_star
 ## 安装加速
 
 ### 不卸载内核版本
+
+> 自用：https://github.com/ylx2016/Linux-NetSpeed
+> 十一合一暴力安装脚本：https://github.com/jinwyp/one_click_script](https://github.com/jinwyp/one_click_script
+
 
 ```shell
 wget -O tcpx.sh "https://github.com/ylx2016/Linux-NetSpeed/raw/master/tcpx.sh" && chmod +x tcpx.sh && ./tcpx.sh
@@ -113,9 +117,3 @@ multi-v2ray：
 
 Trojan多用户管理：
 [https://github.com/Jrohy/trojan](https://github.com/Jrohy/trojan)
-
-十一合一暴力安装脚本：
-[https://github.com/jinwyp/one_click_script](https://github.com/jinwyp/one_click_script)
-
-BBR脚本多合一：
-[https://github.com/ylx2016/Linux-NetSpeed](https://github.com/ylx2016/Linux-NetSpeed/)
